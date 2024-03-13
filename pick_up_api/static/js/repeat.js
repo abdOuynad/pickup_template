@@ -1,0 +1,9 @@
+$(document).ready(()=>{
+  //
+  $('#repeat').click(()=>{
+    //
+    location.reload()
+    //
+  })
+  //
+})
